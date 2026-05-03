@@ -38,4 +38,4 @@ Focused on **LangGraph**, **MCP**, and **agentic RAG** in production.
 
 ## Open to selective remote PJ opportunities
 
-📬 [renan@tamy.ai](mailto:renan@tamy.ai) · 🌐 [renanmiqueloti.vercel.app](https://renanmiqueloti.vercel.app)
+📬 [renanmiqueloti@gmail.com](mailto:renanmiqueloti@gmail.com) · 🌐 [renanmiqueloti.vercel.app](https://renanmiqueloti.vercel.app)
