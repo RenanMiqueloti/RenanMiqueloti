@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-renanmiqueloti-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanmiqueloti/)
 [![Email](https://img.shields.io/badge/Email-renanmiqueloti%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:renanmiqueloti@gmail.com)
 [![Website](https://img.shields.io/badge/Portfolio-renanmiqueloti.vercel.app-10b981?logo=vercel&logoColor=white)](https://renanmiqueloti.vercel.app)
-[![Cal.com](https://img.shields.io/badge/Schedule-cal.com%2Frenanmiqueloti-7c3aed?logo=googlecalendar&logoColor=white)](https://cal.com/renanmiqueloti)
 
 **Building production AI agents · Brazil · GMT-3**
 
@@ -56,6 +55,6 @@ Currently focused on **LangGraph**, **MCP**, and **agentic RAG** in production.
 
 ## Open to selective remote PJ opportunities · mid/senior
 
-📬 [renanmiqueloti@gmail.com](mailto:renanmiqueloti@gmail.com) · 🌐 [renanmiqueloti.vercel.app](https://renanmiqueloti.vercel.app) · 📅 [cal.com/renanmiqueloti](https://cal.com/renanmiqueloti)
+📬 [renanmiqueloti@gmail.com](mailto:renanmiqueloti@gmail.com) · 🌐 [renanmiqueloti.vercel.app](https://renanmiqueloti.vercel.app)
 
 <sub>PT-BR (nativo) · EN (B2)</sub>
