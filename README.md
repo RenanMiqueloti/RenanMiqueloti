@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/Portfolio-renanmiqueloti.vercel.app-10b981?logo=vercel&logoColor=white)](https://renanmiqueloti.vercel.app)
 [![Cal.com](https://img.shields.io/badge/Schedule-cal.com%2Frenanmiqueloti-7c3aed?logo=googlecalendar&logoColor=white)](https://cal.com/renanmiqueloti)
 
-**Building production AI agents at [Tamy AI](https://tamy.ai) · Brazil · GMT-3**
+**Building production AI agents · Brazil · GMT-3**
 
 5 years delivering AI systems that run in the real world — not just notebooks.
 Currently focused on **LangGraph**, **MCP**, and **agentic RAG** in production.
