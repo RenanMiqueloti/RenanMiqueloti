@@ -4,9 +4,9 @@
 [![Email](https://img.shields.io/badge/Email-renanmiqueloti%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:renanmiqueloti@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-renanmiqueloti.vercel.app-10b981?logo=vercel&logoColor=white)](https://renanmiqueloti.vercel.app)
 
-**Agentes de IA em produção · Brasil · GMT-3**
+**Agentes, RAG e ML aplicado · Brasil · GMT-3**
 
-5 anos entregando sistemas de IA no mundo real — não só em notebooks.
+5 anos de experiência em IA aplicada, 2 dedicados a sistemas multi-agente e RAG.
 Foco atual em **LangGraph**, **MCP** e **RAG agêntico**.
 
 ---
@@ -38,7 +38,7 @@ Foco atual em **LangGraph**, **MCP** e **RAG agêntico**.
 | Projeto | O que demonstra |
 |---|---|
 | [**agents-AI**](https://github.com/RenanMiqueloti/agents-AI) | Painel multi-agente em LangGraph — HITL via `interrupt()`, servidor MCP próprio, multi-provider, evals com LLM-as-judge |
-| [**rag-chatbot**](https://github.com/RenanMiqueloti/rag-chatbot) | RAG em produção — Qdrant, hybrid BM25 + semantic, RRF, re-ranking com cross-encoder, FastAPI streaming, LangSmith |
+| [**rag-chatbot**](https://github.com/RenanMiqueloti/rag-chatbot) | Pipeline RAG — Qdrant, hybrid BM25 + semantic, RRF, re-ranking com cross-encoder, FastAPI streaming, LangSmith |
 | [**mcp-tools-server**](https://github.com/RenanMiqueloti/mcp-tools-server) | Servidor MCP próprio — ferramentas utilitárias conectáveis ao Claude Desktop e qualquer cliente MCP |
 | [**Portfólio**](https://github.com/RenanMiqueloti/Page) | Site pessoal bilíngue — Next.js, TypeScript, Tailwind |
 
