@@ -6,7 +6,7 @@
 
 **Agentes, RAG e ML aplicado · Brasil · GMT-3**
 
-5 anos de experiência em IA aplicada, 2 dedicados a sistemas multi-agente e RAG.
+5 anos de experiência em IA aplicada, 2 em agentes, RAG e AI Ops.
 Foco atual em **LangGraph**, **MCP** e **RAG agêntico**.
 
 ---
@@ -46,9 +46,10 @@ Foco atual em **LangGraph**, **MCP** e **RAG agêntico**.
 
 ## Trajetória
 
-- **AI Engineer @ Tamy AI** — agentes multi-tool com handoff humano e RAG sobre bases internas
+- **AI Ops Engineer @ miqueloti.tech** *(2025–atual)* — deploy e orquestração de agents em produção
+- **AI Engineer @ Tamy AI** *(2025–2026)* — agentes multi-tool com handoff humano e RAG sobre bases internas
 - **Data Scientist @ WEG** *(2023–2025)* — modelos preditivos para automação industrial
-- **Início:** TI & análise de sistemas @ BirminD · estágio web @ Melhor Escola *(2018–2023)*
+- **TI & análise de sistemas @ BirminD** *(2021–2023)* · estágio web @ Melhor Escola *(2019–2021)*
 - **Formação:** Computer & Information Sciences *(2019–2023)*
 
 ---
